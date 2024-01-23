@@ -1,14 +1,4 @@
-/**
-* Template Name: Moderna
-* Updated: Sep 18 2023 with Bootstrap v5.3.2
-* Template URL: https://bootstrapmade.com/free-bootstrap-template-corporate-moderna/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
   color: #444;
@@ -76,7 +66,7 @@ h6,
   transition: all 0.5s;
   z-index: 997;
   transition: all 0.5s;
-  background: #1e4356;
+  background: #361e56;
 }
 
 #header.header-transparent {
@@ -107,7 +97,7 @@ h6,
 #header .logo img {
   padding: 0;
   margin: 0;
-  max-height: 40px;
+  max-height: 200px;
 }
 
 #main {
@@ -188,13 +178,11 @@ h6,
   padding: 10px 20px;
   font-size: 14px;
   text-transform: none;
-  color: #1c3745;
+  color: #5a1601;
 }
-
 .navbar .dropdown ul a i {
   font-size: 12px;
 }
-
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
@@ -351,7 +339,7 @@ h6,
   top: 0;
   width: 130%;
   height: 95%;
-  background: linear-gradient(to right, rgba(30, 67, 86, 0.8), rgba(30, 67, 86, 0.6)), url("../img/8.jpeg") center top no-repeat;
+  background: linear-gradient(to right, rgba(57, 68, 77, 0.8), rgba(30, 67, 86, 0.6)), url("../img/6.jpeg") center top no-repeat;
   background-size: cover;
   z-index: 0;
   border-radius: 0 0 50% 50%;
@@ -365,7 +353,7 @@ h6,
   top: 0;
   width: 130%;
   height: 96%;
-  background: #68A4C4;
+  background: #2d0835;
   opacity: 0.3;
   z-index: 0;
   border-radius: 0 0 50% 50%;
@@ -504,7 +492,7 @@ h6,
   top: 0;
   right: 0;
   bottom: 0;
-  background: linear-gradient(to right, rgba(30, 67, 86, 0.8), rgba(30, 67, 86, 0.6)), url("../img/hero-bg.jpg") center top no-repeat;
+  background: linear-gradient(to right, rgba(46, 14, 54, 0.8), rgba(30, 67, 86, 0.6)),  center top no-repeat;
 }
 
 #hero-no-slider h2 {
